@@ -1,3 +1,77 @@
+# Table of Contents
+
+1. [Project Summary](#project-summary)
+    1.1 [Objective](#objective)
+    1.2 [Why](#why)
+    1.3 [How](#how)
+    1.4 [Technology Stack](#technology-stack)
+
+2. [Project Setup](#project-setup)
+    2.1 [Scope](#scope)
+    2.2 [Summary](#summary)
+    2.3 [Tasks](#tasks)
+    2.4 [Deliverables](#deliverables)
+
+3. [User Authentication and Authorization](#user-authentication-and-authorization)
+    3.1 [Scope](#scope-1)
+    3.2 [Summary](#summary-1)
+    3.3 [Tasks](#tasks-1)
+    3.4 [Deliverables](#deliverables-1)
+
+4. [Tenant Management](#tenant-management)
+    4.1 [Scope](#scope-2)
+    4.2 [Summary](#summary-2)
+    4.3 [Tasks](#tasks-2)
+    4.4 [Deliverables](#deliverables-2)
+
+5. [Financial Tracking and Integration](#financial-tracking-and-integration)
+    5.1 [Scope](#scope-3)
+    5.2 [Summary](#summary-3)
+    5.3 [Tasks](#tasks-3)
+    5.4 [Deliverables](#deliverables-3)
+
+6. [Maintenance Request Management](#maintenance-request-management)
+    6.1 [Scope](#scope-4)
+    6.2 [Summary](#summary-4)
+    6.3 [Tasks](#tasks-4)
+    6.4 [Deliverables](#deliverables-4)
+
+7. [Document and Image Management](#document-and-image-management)
+    7.1 [Scope](#scope-5)
+    7.2 [Summary](#summary-5)
+    7.3 [Tasks](#tasks-5)
+    7.4 [Deliverables](#deliverables-5)
+
+8. [Real-Time Communication](#real-time-communication)
+    8.1 [Scope](#scope-6)
+    8.2 [Summary](#summary-6)
+    8.3 [Tasks](#tasks-6)
+    8.4 [Deliverables](#deliverables-6)
+
+9. [Admin Overhead Calculation](#admin-overhead-calculation)
+    9.1 [Scope](#scope-7)
+    9.2 [Summary](#summary-7)
+    9.3 [Tasks](#tasks-7)
+    9.4 [Deliverables](#deliverables-7)
+
+10. [Loan Amortization App](#loan-amortization-app)
+    10.1 [Scope](#scope-8)
+    10.2 [Summary](#summary-8)
+    10.3 [Tasks](#tasks-8)
+    10.4 [Deliverables](#deliverables-8)
+
+11. [Testing and Quality Assurance](#testing-and-quality-assurance)
+    11.1 [Scope](#scope-9)
+    11.2 [Summary](#summary-9)
+    11.3 [Tasks](#tasks-9)
+    11.4 [Deliverables](#deliverables-9)
+
+12. [Full Detailed Summarization of the Final Product](#full-detailed-summarization-of-the-final-product)
+13. [Estimated Hours and Time-Frame](#estimated-hours-and-time-frame)
+
+
+
+
 ### Project Summary
 
 #### Project: Property Management App
