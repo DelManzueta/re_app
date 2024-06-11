@@ -21,7 +21,6 @@ dist/
 .env.production.local
 
 # Logs
-docs/
 logs/
 *.log
 npm-debug.log*
@@ -52,3 +51,4 @@ jspm_packages/
 # Next.js
 .next/
 out/
+docs/
