@@ -1058,7 +1058,7 @@ With a time-frame of 3-4 months and a pay-rate of $37/hour, the estimated cost
 would be:
 
 - **Total Estimated Cost**:
-  - 830 hours \* $37/hour = $30,710
+  - 830 hours
 
 ---
 
